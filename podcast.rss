@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>Psychology and Christianity</title>
-        <itunes:title>Psychology and Christianity</itunes:title>
-        <description>Psychology and Christianity</description>
-        <itunes:summary>Psychology and Christianity</itunes:summary>
+        <title>Psychology and Christianity Discussion</title>
+        <itunes:title>Psychology and Christianity Discussion</itunes:title>
+        <description>Psychology and Christianity Discussion</description>
+        <itunes:summary>Psychology and Christianity Discussion</itunes:summary>
         <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
         <link>https://github.com/ccz245/data-psych-christianity-26b4a356b4df</link>
         <language>en-us</language>
@@ -18,7 +18,7 @@ Explores the client who is torn between "I just need to pray more" and the guilt
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep01_ch01_conceptual_framework.mp3" length="13438570" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep01</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:18:40</itunes:duration>
             <itunes:summary>Chapter 1: A Brief History of Christians in Psychology
@@ -33,7 +33,7 @@ Turns the book's five positions (Biblical Counseling, Levels-of-Explanation, Int
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep02_ch01_clinical_playbook.mp3" length="13813480" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep02</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:19:11</itunes:duration>
             <itunes:summary>Chapter 1: A Brief History of Christians in Psychology
@@ -48,7 +48,7 @@ Troubleshoots the two failure modes of faith-informed work: colluding with spiri
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep03_ch01_troubleshooting.mp3" length="12227638" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep03</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:16:59</itunes:duration>
             <itunes:summary>Chapter 1: A Brief History of Christians in Psychology
@@ -63,7 +63,7 @@ Draws on the transformational tradition to argue that the therapist's own charac
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep04_ch01_advanced_integration.mp3" length="13362084" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep04</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:18:33</itunes:duration>
             <itunes:summary>Chapter 1: A Brief History of Christians in Psychology
@@ -78,7 +78,7 @@ Shows how the levels-of-explanation model lets a therapist validate a client's b
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep05_ch02_levels_of_explanation.mp3" length="13420702" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep05</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:18:38</itunes:duration>
             <itunes:summary>Chapter 2: A Levels-of-Explanation View
@@ -93,7 +93,7 @@ Reframes confirmation bias and self-serving narratives in couples work as attach
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep06_ch02_clinical_playbook_biases.mp3" length="14695269" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep06</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:20:25</itunes:duration>
             <itunes:summary>Chapter 2: A Levels-of-Explanation View
@@ -108,7 +108,7 @@ A case study translating Myers' persons-and-situations research into systemic co
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep07_ch02_case_study_persons_and_situations.mp3" length="12786240" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep07</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:17:45</itunes:duration>
             <itunes:summary>Chapter 2: A Levels-of-Explanation View
@@ -123,7 +123,7 @@ Reads a teenager's post-separation acting out as attachment protest and a sympto
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep08_ch02_troubleshooting_family_systems.mp3" length="13277760" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep08</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:18:26</itunes:duration>
             <itunes:summary>Chapter 2: A Levels-of-Explanation View
@@ -138,7 +138,7 @@ Examines how a therapist's implicit religious, sexual, and family values leak in
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep09_ch02_self_of_therapist_values.mp3" length="12852069" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep09</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:17:51</itunes:duration>
             <itunes:summary>Chapter 2: A Levels-of-Explanation View
@@ -153,7 +153,7 @@ Stanton Jones's integration model as a clinical posture: why splitting faith and
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep10_ch03_the_integration_model.mp3" length="15257320" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep10</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:21:11</itunes:duration>
             <itunes:summary>Chapter 3: An Integration View
@@ -168,7 +168,7 @@ A three-step method for critical/constructive integration: learn a secular model
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep11_ch03_clinical_integration_playbook.mp3" length="14909682" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep11</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:20:42</itunes:duration>
             <itunes:summary>Chapter 3: An Integration View
@@ -183,7 +183,7 @@ How to work with clients trapped between "my depression is entirely genetic" and
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep12_ch03_troubleshooting_theological_tensions.mp3" length="14327883" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep12</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:19:54</itunes:duration>
             <itunes:summary>Chapter 3: An Integration View
@@ -198,7 +198,7 @@ Self-of-the-therapist work for the moment a client's story or a new study destab
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep13_ch03_therapist_values_and_science.mp3" length="15412800" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep13</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:21:24</itunes:duration>
             <itunes:summary>Chapter 3: An Integration View
@@ -213,7 +213,7 @@ Jones's treatment of sexuality as the stress test for integration: how to separa
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep14_ch03_sexuality_and_ethical_tensions.mp3" length="15420637" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep14</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:21:25</itunes:duration>
             <itunes:summary>Chapter 3: An Integration View
@@ -228,7 +228,7 @@ Christian psychology treats human flourishing as a teleological question that no
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep15_ch04_conceptual_framework.mp3" length="12267449" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep15</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:17:02</itunes:duration>
             <itunes:summary>Chapter 4: A Christian Psychology View
@@ -243,7 +243,7 @@ A synthesis playbook for de-escalating couples locked in an "eye for an eye" dan
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep16_ch04_clinical_playbook.mp3" length="13337006" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep16</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:18:31</itunes:duration>
             <itunes:summary>Chapter 4: A Christian Psychology View
@@ -258,7 +258,7 @@ A case study on infidelity where the offending partner weaponizes forgiveness ("
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep17_ch04_sermon_on_the_mount_case.mp3" length="14525682" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep17</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:20:10</itunes:duration>
             <itunes:summary>Chapter 4: A Christian Psychology View
@@ -273,7 +273,7 @@ Unexamined secular assumptions—reading prayer as low self-efficacy or self-den
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep18_ch04_troubleshooting_anger_and_lust.mp3" length="12219801" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep18</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:16:58</itunes:duration>
             <itunes:summary>Chapter 4: A Christian Psychology View
@@ -288,7 +288,7 @@ Explores how a therapist's own metaphysical commitments sustain presence when cl
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep19_ch04_self_of_therapist_agape.mp3" length="14517218" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep19</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:20:10</itunes:duration>
             <itunes:summary>Chapter 4: A Christian Psychology View
@@ -303,7 +303,7 @@ Coe and Hall's transformational model argues the therapist's own spiritual and e
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep20_ch05_transformational_framework.mp3" length="15102466" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep20</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:20:58</itunes:duration>
             <itunes:summary>Chapter 5: A Transformational Psychology View
@@ -318,7 +318,7 @@ A practical playbook for Level 1 of the transformational model — presentation 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep21_ch05_clinical_playbook_spiritual_disciplines.mp3" length="12928242" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep21</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:17:57</itunes:duration>
             <itunes:summary>Chapter 5: A Transformational Psychology View
@@ -333,7 +333,7 @@ The biblical sage models psychology as both descriptive and prescriptive — obs
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep22_ch05_sage_observation_case.mp3" length="13797806" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep22</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:19:10</itunes:duration>
             <itunes:summary>Chapter 5: A Transformational Psychology View
@@ -348,7 +348,7 @@ Epistemological pathology is what happens when the therapist's ego, need to be r
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep23_ch05_troubleshooting_epistemological_pathology.mp3" length="5205610" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep23</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:07:14</itunes:duration>
             <itunes:summary>Chapter 5: A Transformational Psychology View
@@ -363,7 +363,7 @@ Self-of-therapist work reframed: when the clinician draws stability from union w
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep24_ch05_self_of_therapist_union_with_god.mp3" length="13332304" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep24</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:18:31</itunes:duration>
             <itunes:summary>Chapter 5: A Transformational Psychology View
@@ -378,7 +378,7 @@ Powlison's biblical counseling framework recast in attachment terms: the heart's
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep25_ch06_conceptual_framework.mp3" length="14070211" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep25</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:19:32</itunes:duration>
             <itunes:summary>Chapter 6: A Biblical Counseling View
@@ -393,7 +393,7 @@ A synthesis play for pairing secular psychotherapy's empathy and listening with 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep26_ch06_clinical_playbook.mp3" length="14095602" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep26</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:19:35</itunes:duration>
             <itunes:summary>Chapter 6: A Biblical Counseling View
@@ -408,7 +408,7 @@ A full case walkthrough of Clyde, a 38-year-old doctor whose anxiety, drinking, 
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep27_ch06_case_study.mp3" length="14509382" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep27</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:20:09</itunes:duration>
             <itunes:summary>Chapter 6: A Biblical Counseling View
@@ -423,7 +423,7 @@ How to use secular psychology's descriptive acuity without swallowing its philos
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep28_ch06_troubleshooting_errors.mp3" length="14193091" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep28</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:19:43</itunes:duration>
             <itunes:summary>Chapter 6: A Biblical Counseling View
@@ -438,7 +438,7 @@ The therapist's ABCDs in the room: needing the client to like you, the messianic
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/audio/psych-christianity_ep29_ch06_self_of_therapist.mp3" length="16126570" type="audio/mpeg"/>
             <guid isPermaLink="false">psych-christianity_ep29</guid>
-            <itunes:author>Psychology and Christianity</itunes:author>
+            <itunes:author>Psychology and Christianity Discussion</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-psych-christianity-26b4a356b4df/cover.png"/>
             <itunes:duration>00:22:24</itunes:duration>
             <itunes:summary>Chapter 6: A Biblical Counseling View
